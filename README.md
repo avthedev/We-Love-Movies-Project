@@ -31,7 +31,7 @@ Built with
 
 - Home page displays all movies
 - All theaters displays theaters nearby with their current movies
-- All movies displays every movie in theater their descriptions along with ratings
+- All movies displays every movie in theater and their descriptions along with ratings
 - Each movie displays reviews and theaters of the movie showings
 
 ## Installation
