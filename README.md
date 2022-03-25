@@ -36,7 +36,7 @@ Built with
 
 ## Installation
 
-This project requires thinkful's front-end. Please reference this link()
+This project requires thinkful's front-end. Please reference this link (https://github.com/avthedev/starter-movie-front-end)
 
 1. Fork and clone this repository
 2. Create `.env` file in the root of the folder
