@@ -4,7 +4,7 @@ This project was made for users that needed suggestions for a new movie to watch
 
 ## Motivation
 
-This was created as part of my project for the Thinkful Software Engineering course. This was a good project to practice and learn about the backend, from managing migrations to building complex routes. I also had to build servers and access data through a database.
+This was a good project to practice and learn about the backend, from managing migrations to building complex routes. I also had to build servers and access data through a database.
 
 ## Demo
 
