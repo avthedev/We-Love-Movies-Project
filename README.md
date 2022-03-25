@@ -18,7 +18,7 @@ https://avwelovemovies.vercel.app/
 
 Built with
 
-- Javascript
+- JavaScript
 - HTML/CSS
 - ElephantSQL
 - Knex
