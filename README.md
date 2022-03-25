@@ -6,9 +6,9 @@ This project was made for users that needed suggestions for a new movie to watch
 
 This was a good project to practice and learn about the backend, from managing migrations to building complex routes. I also had to build servers and access data through a database.
 
-## Demo
+<!-- ## Demo
 
-https://avwelovemovies.vercel.app/
+https://avwelovemovies.vercel.app/ -->
 
 ## Screenshots
 
